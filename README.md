@@ -7,3 +7,6 @@ This is example code to stream the temperature readings from the MAX6675 D1 Mini
 
 
 This example uses the adafruit MAX6675 library, which can be installed in the library manager.
+
+
+<img width="1123" height="942" alt="image" src="https://github.com/user-attachments/assets/3f09fe5a-aa7f-4a90-9906-0e7b70a4ef20" />
