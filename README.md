@@ -4,3 +4,6 @@ This is example code to stream the temperature readings from the MAX6675 D1 Mini
 
 - MAX6675 Shield for the D1 Mini (includes the D1 mini as well as a K type thermocouple): https://ezmation.com/wifi/67-wifi-max6675-k-type-thermocouple.html
 - Excel data streamer: https://support.microsoft.com/en-us/office/what-is-data-streamer-1d52ffce-261c-4d7b-8017-89e8ee2b806f
+
+
+This example uses the adafruit MAX6675 library, which can be installed in the library manager.
