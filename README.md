@@ -1,0 +1,1 @@
+# MAX6675_Temperature_to_Excel
